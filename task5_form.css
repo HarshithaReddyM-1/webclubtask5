@@ -1,0 +1,33 @@
+.border
+{
+    border: 2px solid blue;
+    border-radius: 25px;
+    padding: 50px;
+    margin: auto;
+    width: 550px;
+    height: 700px;
+}
+.header
+{
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+}
+.labels
+{
+    border-radius: 5px ;
+    width:150px;
+    display: inline-block;
+}
+.l1
+{
+    border-radius: 5px ;
+    position: relative; 
+    left:150px;
+}
+.l2
+{
+    border-radius: 5px ;
+    position: relative; 
+    left:150px;
+}
